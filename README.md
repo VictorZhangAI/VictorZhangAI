@@ -24,7 +24,7 @@ SystemVerilog, Assembly
 
 #### Used as Hobby
 
-HTML, CSS, JavaScript and their neighbors and gangs
+HTML, CSS, JavaScript and their neighbors and gangs, Rust
 
 #### Used as a Must-Learn way to Graduate
 
