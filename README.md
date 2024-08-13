@@ -44,7 +44,7 @@ You can ask me about C, hardware and HTML/CSS/JS, for other tech stack, I would 
 
 Email: 2319725508@qq.com
 
-Google: qwerymeta@gmail.com
+Google: qwerymetal@gmail.com
 
 Telegram: May be near future.
 
