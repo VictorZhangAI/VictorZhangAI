@@ -51,3 +51,13 @@ Telegram: May be near future.
 ## I need you!
 
 If you're a hardware fan, ASIC/FPGA professional or just a computer player, contact me, I'm glad to meet you! 
+
+## Other Things...
+
+Every planet's keeping twinkle
+
+Never let me forget...
+
+Anybody's keeping secret
+
+Never let me get back...
