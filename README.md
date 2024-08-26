@@ -16,11 +16,11 @@ A retired web front-end maker.
 
 #### Used as Life
 
-C, Mathematica
+Lisp, Mathematica
 
 #### Used as Work
 
-SystemVerilog, Assembly
+SystemVerilog, Assembly, C
 
 #### Used as Hobby
 
